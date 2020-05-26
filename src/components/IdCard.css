@@ -1,0 +1,17 @@
+.id-card {
+  display: flex;
+  align-items: center;
+}
+
+.id-card img {
+  width: 8em;
+  height: 8em;
+  margin-right: 1em;
+  margin-bottom: 1em;
+}
+
+.id-card div p {
+  margin: 0;
+  text-align: left;
+  color: rgb(red, green, blue);
+}
